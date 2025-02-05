@@ -1,0 +1,80 @@
+1. **User Login:**
+   - **Test Scenario:** The user should be able to successfully log into their EnUygun account.
+   - **Steps:**
+     1. The user clicks on either the "Log In" or "Create Account" option.
+     2. The user enters a valid username and password.
+     3. The user clicks the "Log In" button.
+   - **Expected Outcome:** The user should successfully log in and gain access to their account.
+
+2. **Flight and Accommodation Search:**
+   - **Test Scenario:** The user should be able to specify their travel dates and preferences.
+   - **Steps:**
+     1. On the homepage, the user selects the services needed for the trip (e.g., Flight, Hotel, Transfer).
+     2. The user specifies the travel dates and destination on the homepage.
+     3. The user clicks the "Search" button.
+   - **Expected Outcome:** The user completes the initial steps for travel planning.
+
+3. **Combining Flights and Accommodation:**
+   - **Test Scenario:** The user should be able to successfully combine the selected flights and accommodation.
+   - **Steps:**
+     1. After selecting a flight, the user views the available accommodation at the chosen destination and adds the preferred options to the cart.
+     2. The user clicks the "Complete Reservation" button.
+   - **Expected Outcome:** The user successfully combines the flights and accommodation. Any conflicting flight-accommodation combinations should not be displayed; if a conflict exists, the reservation should not be completed. If no conflicts exist, the user completes the reservation.
+
+4. **Flight Filtering and Sorting:**
+   - **Test Scenario:** The user should be able to filter the search results and arrange them as desired.
+   - **Steps:**
+     1. The user views the search results.
+     2. The user uses one of the filtering or sorting options.
+   - **Expected Outcome:** The user filters and sorts the search results according to the specified criteria.
+
+5. **Flight Customization Options:**
+   - **Test Scenario:** The user should be able to add customizations to their reservations.
+   - **Steps:**
+     1. The user views their reservations.
+     2. The user adds a customization to any reservation (for example, choosing a baggage option).
+   - **Expected Outcome:** The user personalizes their reservations and successfully applies the customizations.
+
+6. **Accommodation Filtering and Sorting:**
+   - **Test Scenario:** The user should be able to filter the search results and arrange them as desired.
+   - **Steps:**
+     1. The user views the search results.
+     2. The user uses one of the filtering or sorting options.
+   - **Expected Outcome:** The user filters and sorts the search results according to the specified criteria.
+
+7. **Accommodation Customization Options:**
+   - **Test Scenario:** The user should be able to add customizations to their reservations.
+   - **Steps:**
+     1. The user views their reservations.
+     2. The user adds a customization to any reservation (for example, selecting a "breakfast included" option).
+   - **Expected Outcome:** The user personalizes their reservations and successfully applies the customizations.
+
+8. **Payment and Confirmation:**
+   - **Test Scenario:** The user should be able to make a payment for the selected flights and accommodation and confirm the reservation.
+   - **Steps:**
+     1. The user proceeds with the reservation and enters the payment details.
+     2. The user clicks the "Make Payment" button.
+   - **Expected Outcome:** The user makes the payment and successfully confirms the reservation.
+
+9. **User Login (for users who have not created an account during reservation):**
+   - **Test Scenario:** The user should be able to successfully create an EnUygun account. Reservations made without membership that match the email address should appear in the account.
+   - **Steps:**
+     1. The user clicks on either the "Log In" or "Create Account" option.
+     2. The user enters a valid username and password.
+     3. The user clicks the "Log In" button.
+     4. When the user clicks the "My Reservations" page, they should see reservations that match their phone number/email address.
+   - **Expected Outcome:** The user should successfully log in, gain access to their account, and see any reservations made during the period when they were not a member.
+
+10. **Viewing Reservation Information:**
+    - **Test Scenario:** The user should be able to view the details and documents of their reservations.
+    - **Steps:**
+      1. The user views the reservations in their account.
+      2. The user opens the details of any reservation.
+    - **Expected Outcome:** The user successfully views the details of their reservations.
+
+11. **Travel Updates/Notifications:**
+    - **Test Scenario:** The user should be able to receive updates and notifications related to flights and accommodations.
+    - **Steps:**
+      1. When there is any update regarding the trip (e.g., a change in time, approaching travel time, etc.), the user should be notified about the relevant issue.
+      2. The user checks the notifications when they receive an update; there should be no issues accessing the notification.
+    - **Expected Outcome:** The user receives updates and notifications regarding their trip.
