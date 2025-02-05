@@ -1,0 +1,33 @@
+Selection of Preferred Services:
+As a user, I want to specify the dates and preferences for my round-trip flights and accommodation so that I can initiate my travel plan.
+These services should be presented to the user as flight tickets first, followed by accommodation.
+
+Combining Flights and Accommodation:
+As a user, I want to combine my selected flights and accommodation so that I can manage both with a single reservation.
+
+Filtering and Sorting Flight Tickets:
+As a user, I want to filter and sort my flight options based on criteria such as budget, number of layovers, and airline so that I can quickly find the most suitable options.
+
+Flight Baggage and Cancellation Flexibility Selection:
+As a user, I need to choose my flight with packages that include options for baggage allowance and differences in flight classes.
+
+Searching for Accommodation:
+As a user, I want to specify the dates and preferences for my round-trip flights and accommodation so that I can initiate my travel plan.
+
+Customization Options:
+As a user, I want to add customizations to my reservations (for example, room type, extra baggage fees, or meal options) so that I can personalize my trip.
+
+Payment and Confirmation:
+As a user, I want to make a payment for my chosen flights and accommodations and confirm the reservation so that I can finalize my trip.
+
+User Login:
+As a user, I want to create an EnUygun account or log into my existing EnUygun account so that I can save and manage my travel plans.
+
+Viewing Reservation Information:
+As a user, I want to view the details and documents of my reservations so that I can check my travel information.
+
+Travel Support:
+As a user, I want to easily reach EnUygun customer service or the support team through various channels (WhatsApp, Chatbot, Phone) in case I encounter any issues during or after my trip.
+
+Travel Updates:
+As a user, I want to receive updates and notifications about my flights and accommodations (for example, delays, changes, or special offers that I might need during my trip).
