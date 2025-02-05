@@ -1,31 +1,39 @@
-1. **Ana Sayfa** 
-    1. Kullanıcı, EnUygun ana sayfasına yönlendirilir.
-    2. Seyahati boyunca ihtiyacı olan hizmetleri seçer. 
-2. **Uçuş Seçimi:**
-    1. Kullanıcı, gidiş-dönüş veya tek yönlü uçuş seçenekleri arasından tercihini yapar.
-    2. Kullanıcı kalkış ve varış havaalanlarını, seyahat tarihlerini ve destinasyonunu belirtir.
-    3. Uçuş tarihlerini ve yolcu sayısını belirtir.
-3.  **Özelleştirme:**
-    1. Kullanıcı, uçuşunu tercihlerine uygun seçenekleri özelleştirir (örneğin, öğün seçenekleri, ekstra hizmetler).
-    2. Toplam fiyatı ve rezervasyon detaylarını gözden geçirir.
-4. **Konaklama Seçimi:**
-    1. Kullanıcı, konaklama tercihlerine uygun seçenekleri özelleştirir (örneğin, öğün seçenekleri, ekstra hizmetler).
-    2. Sonuçlar, fiyat, otel yıldızı, konum ve diğer filtrelerle sınırlandırılabilir.
-5. **Sonuçların İncelenmesi:**
-    1. Kullanıcı, uçuş ve konaklama seçeneklerini inceleyerek en uygun kombinasyonları seçer.
-    2. Her seçenek için ayrıntılı bilgilere erişebilir.
-    3. Toplam fiyatı ve rezervasyon detaylarını gözden geçirir.
-6. **Ödeme:**
-    1. Kullanıcı, ödeme bilgilerini girer ve rezervasyonu onaylar.
-    2. Ödeme işlemi tamamlanır ve kullanıcıya bir rezervasyon onayı verilir.
-7. **Kullanıcı Girişi veya Kaydolma:**
-    1. Kullanıcı, rezervasyon bilgilerine ve hatırlatmalara kolayca ulaşabilmek ve yaptığı seyehat planlamasındaki avantajları kullanabilmek için hesabına giriş yapar veya yeni bir hesap oluşturur.
-8. **Rezervasyon Bilgileri ve Takibi** 
-    1. Kullanıcı, rezervasyon bilgilerini ve seyahat planını görüntüler.
-    2. İhtiyaca göre her zaman pakete eklenebili ek hizmetleri veya rezervasyon detaylarını düzenleyebilir.
-    3. Kullanıcı, seyahat belgelerini (biletler, rezervasyon onayı, otel rezervasyonu) indirir ve kaydeder.
-9. **Bildirimler:**
-    1. Seyahatle ilgili güncellemeleri ve bildirimleri alır.
-    2. Daha önce yarım bıraktığı işlemler hakkında bildirimler alır
-10. **Seyahat Sonrası Destek:**
-    1. Kullanıcı, seyahatleri sırasında veya sonrasında oluşabilecek sorunları çözmek için Enuygun müşteri hizmetlerine veya destek ekibine ulaşabilir.
+1. Homepage:
+The user is directed to the EnUygun homepage.
+The user selects the services needed throughout the trip.
+
+2. Flight Selection:
+The user chooses between round-trip or one-way flight options.
+The user specifies the departure and arrival airports, travel dates, and destination.
+The user indicates the flight dates and number of passengers.
+
+3. Customization:
+The user customizes the flight according to their preferences (for example, meal options, additional services).
+The user reviews the total price and reservation details.
+
+4. Accommodation Selection:
+The user customizes accommodation options according to their preferences (for example, meal options, additional services).
+The results can be filtered by price, hotel rating, location, and other criteria.
+
+5. Reviewing Results:
+The user reviews the flight and accommodation options and selects the most suitable combinations.
+The user can access detailed information for each option.
+The user reviews the total price and reservation details.
+6. Payment:
+The user enters payment details and confirms the reservation.
+The payment process is completed, and the user receives a reservation confirmation.
+
+7. User Login or Registration:
+The user logs into their account or creates a new account to easily access reservation information and reminders, as well as to benefit from the advantages of their travel planning.
+
+8. Reservation Information and Tracking:
+The user views the reservation details and travel plan.
+The user can edit any additional services or reservation details that can be added to the package as needed.
+The user downloads and saves the travel documents (tickets, reservation confirmation, hotel reservation).
+
+9. Notifications:
+The user receives updates and notifications regarding the trip.
+The user receives notifications about processes that were previously left unfinished.
+
+10. Post-Travel Support:
+The user can contact EnUygun customer service or the support team to resolve any issues that may occur during or after the trip.
