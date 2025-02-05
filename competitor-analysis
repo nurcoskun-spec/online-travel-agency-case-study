@@ -1,0 +1,40 @@
+**Competitor Analysis**
+
+Expedia, Booking.com, Kayak, Agoda, Orbitz, Travelocity, Priceline, Kayak Explore, Google Flights, Google Hotels, and many others are strong competitors of EnUygun. In this document, I will discuss the advantages and disadvantages of some of the aforementioned competitors in comparison to EnUygun.
+
+1. **Expedia**
+    1. **Advantages:**
+        1. **Highlighting Package Deals:** Expedia attracts users by offering discounts on vacation packages that combine flight tickets and hotel bookings, creating a feeling of affordable and easy travel. This is an advantage over EnUygun.
+        2. **Expedia Rewards:** Through this program, users earn points during their travels, motivating them to book their next trip with Expedia. This is an advantage over EnUygun.
+        3. **Lack of Popular Filters Feature:** Expedia collects data on users' bookings and preferred hotels, analyzing this data to create Popular Filters based on frequent bookings and user preferences. (For example, when searching in Istanbul, the "Breakfast Included" option appears, while in Rome, the Spanish Steps are suggested as a popular landmark.)
+        4. **Flexibility in Holiday Packages:** Users can customize their vacation packages with desired services. Unlike in our case, where hotel and flight details are fixed, users can select services of their choice and create their holiday package. In this aspect, it is more advantageous than EnUygun.
+    2. **Disadvantages:**
+        1. **Hotel Selection Before Flight in Holiday Packages:** Users need to know when their flight will end before choosing their hotel. In some cases, they may prefer a hotel near the airport for the first night and later move to the city center, or they may plan a transfer to another city without traveling from the airport to the city center. Therefore, flight selection should be prioritized. Expedia misinterprets user behavior patterns in this regard.
+        2. **Lack of Personalization:** Expedia may lack personalized recommendations based on users' past bookings. By reviewing users' past reservations and preferences, platforms can offer personalized suggestions for future bookings. For example, if a user usually prefers luxury hotels, they could be recommended similar options in future searches.
+    
+2. **Booking.com**
+    1. **Advantages:**
+        1. **Wide Accommodation Options:** Booking.com offers a wide variety of hotels, vacation homes, apartments, hostels, and other types of accommodations worldwide. This makes it easier for users to find accommodation options that fit their budgets and preferences. Hostel and apartment options attract budget-conscious travelers.
+        2. **Free Cancellation Options:** Many hotel bookings made through Booking.com come with free cancellation options, which are clearly indicated in the price listing. This option appears at a later stage in EnUygun and does not stand out in the listing, making it a disadvantage for users comparing prices.
+    2. **Disadvantages:**
+        1. **Lack of Specific Disadvantages Mentioned in the Original Text**
+
+3. **Kayak**
+    1. **Advantages:**
+        1. **Flight Tracking and Price Alerts:** Users can track flight prices and receive notifications when prices drop, which gives Kayak an advantage over EnUygun.
+    2. **Disadvantages:**
+        1. **Redirecting Reservations:** While EnUygun allows users to complete their bookings directly on their site, Kayak redirects users to other travel websites or airline websites to finalize their bookings. This can create a complicated user experience, making EnUygun more advantageous in this regard.
+        2. **Customer Service:** Due to the redirection mentioned above, Kayak doesn't provide a full-service travel agency experience. Therefore, users requiring customer service may be redirected to different service providers. In contrast, EnUygun manages this process internally, providing a better experience for users.
+
+4. **Agoda**
+    1. **Advantages:**
+        1. **Currency Selection:** A user in Turkey may want to make payments for accommodation or flights in different currencies to avoid paying extra commissions on their credit card. However, EnUygun lacks a currency selection feature for services other than flights. Agoda, on the other hand, offers this option, making it more advantageous for users.
+
+5. **OBilet**
+    1. **Disadvantages:**
+        1. **Limited International Service:** OBilet is mainly used for bus travel within Turkey. It offers limited options for international travel.
+
+6. **EnUygun**
+    1. **Disadvantages:**
+        1. **Customer Service:** The customer service being only available via phone makes it difficult for international users to access support. It would be beneficial to provide support through a help center and WhatsApp.
+        2. **Navbar Grouping:** One of the major drawbacks in EnUygun’s user experience is the grouping of unrelated items under the three-dot menu in the navbar. The list here should be organized by similar goals. Travel-related items should be under one category, banking and deposits under another, and mobile internet under yet another category.
